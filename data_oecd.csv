@@ -1,0 +1,1735 @@
+id	year	cty	hexp_gdp	hexp_ppp
+1	1960	"Australia"	3.6	90
+1	1961	"Australia"		
+1	1962	"Australia"		
+1	1963	"Australia"	3.8	107
+1	1964	"Australia"		
+1	1965	"Australia"		
+1	1966	"Australia"	3.8	128
+1	1967	"Australia"		
+1	1968	"Australia"		
+1	1969	"Australia"	4.1	176
+1	1970	"Australia"		
+1	1971	"Australia"	4.8	233
+1	1972	"Australia"	4.8	249
+1	1973	"Australia"	4.8	274
+1	1974	"Australia"	5.4	337
+1	1975	"Australia"	6.3	430
+1	1976	"Australia"	6.3	458
+1	1977	"Australia"	6.5	497
+1	1978	"Australia"	6.3	536
+1	1979	"Australia"	6.1	576
+1	1980	"Australia"	6.1	632
+1	1981	"Australia"	6	707
+1	1982	"Australia"	6.3	739
+1	1983	"Australia"	6.2	785
+1	1984	"Australia"	6.2	837
+1	1985	"Australia"	6.4	911
+1	1986	"Australia"	6.6	981
+1	1987	"Australia"	6.4	1025
+1	1988	"Australia"	6.3	1079
+1	1989	"Australia"	6.4	1132
+1	1990	"Australia"	6.7	1194
+1	1991	"Australia"	7	1271
+1	1992	"Australia"	7.1	1360
+1	1993	"Australia"	7.1	1435
+1	1994	"Australia"	7.2	1521
+1	1995	"Australia"	7.2	1607
+1	1996	"Australia"	7.4	1711
+1	1997	"Australia"	7.5	1813
+1	1998	"Australia"	7.6	1952
+1	1999	"Australia"	7.8	2097
+1	2000	"Australia"	8	2266
+1	2001	"Australia"	8.1	2388
+1	2002	"Australia"	8.4	2559
+1	2003	"Australia"	8.3	2673
+1	2004	"Australia"	8.5	2878
+1	2005	"Australia"	8.4	2980
+1	2006	"Australia"	8.5	3164
+1	2007	"Australia"	8.5	3353
+1	2008	"Australia"	8.7	3445
+1	2009	"Australia"		
+1	2010	"Australia"		
+2	1960	"Austria"	4.3	77
+2	1961	"Austria"	4.5	86
+2	1962	"Austria"	4.6	90
+2	1963	"Austria"	4.7	97
+2	1964	"Austria"	4.6	103
+2	1965	"Austria"	4.6	107
+2	1966	"Austria"	4.9	124
+2	1967	"Austria"	5.2	139
+2	1968	"Austria"	5.3	153
+2	1969	"Austria"	5.3	171
+2	1970	"Austria"	5.2	196
+2	1971	"Austria"	5.1	215
+2	1972	"Austria"	5.1	235
+2	1973	"Austria"	5.3	267
+2	1974	"Austria"	5.4	310
+2	1975	"Austria"	6.9	436
+2	1976	"Austria"	7.1	496
+2	1977	"Austria"	7.1	547
+2	1978	"Austria"	7.4	616
+2	1979	"Austria"	7.4	699
+2	1980	"Austria"	7.4	785
+2	1981	"Austria"	6.6	754
+2	1982	"Austria"	6.5	802
+2	1983	"Austria"	6.3	837
+2	1984	"Austria"	6.3	877
+2	1985	"Austria"	6.4	939
+2	1986	"Austria"	6.7	1017
+2	1987	"Austria"	6.8	1082
+2	1988	"Austria"	6.8	1154
+2	1989	"Austria"	7	1270
+2	1990	"Austria"	8.3	1623
+2	1991	"Austria"	8.4	1729
+2	1992	"Austria"	8.7	1840
+2	1993	"Austria"	9.3	2004
+2	1994	"Austria"	9.6	2162
+2	1995	"Austria"	9.5	2239
+2	1996	"Austria"	9.5	2305
+2	1997	"Austria"	9.8	2446
+2	1998	"Austria"	10	2603
+2	1999	"Austria"	10.1	2733
+2	2000	"Austria"	9.9	2862
+2	2001	"Austria"	10.1	2906
+2	2002	"Austria"	10.1	3057
+2	2003	"Austria"	10.3	3199
+2	2004	"Austria"	10.4	3390
+2	2005	"Austria"	10.4	3472
+2	2006	"Austria"	10.3	3629
+2	2007	"Austria"	10.3	3792
+2	2008	"Austria"	10.4	4128
+2	2009	"Austria"	11	4289
+2	2010	"Austria"		
+3	1960	"Belgium"		
+3	1961	"Belgium"		
+3	1962	"Belgium"		
+3	1963	"Belgium"		
+3	1964	"Belgium"		
+3	1965	"Belgium"		
+3	1966	"Belgium"		
+3	1967	"Belgium"		
+3	1968	"Belgium"		
+3	1969	"Belgium"		
+3	1970	"Belgium"	3.9	149
+3	1971	"Belgium"	4	166
+3	1972	"Belgium"	4.2	189
+3	1973	"Belgium"	4.4	225
+3	1974	"Belgium"	4.5	259
+3	1975	"Belgium"	5.6	348
+3	1976	"Belgium"	5.8	402
+3	1977	"Belgium"	6.3	465
+3	1978	"Belgium"	6.5	527
+3	1979	"Belgium"	6.5	582
+3	1980	"Belgium"	6.3	641
+3	1981	"Belgium"	6.7	746
+3	1982	"Belgium"	6.9	824
+3	1983	"Belgium"	7.1	880
+3	1984	"Belgium"	6.9	914
+3	1985	"Belgium"	7	964
+3	1986	"Belgium"	7.2	1029
+3	1987	"Belgium"	7.3	1099
+3	1988	"Belgium"	7.3	1187
+3	1989	"Belgium"	7.2	1259
+3	1990	"Belgium"	7.2	1353
+3	1991	"Belgium"	7.6	1484
+3	1992	"Belgium"	7.7	1573
+3	1993	"Belgium"	7.9	1612
+3	1994	"Belgium"	7.7	1649
+3	1995	"Belgium"	7.6	1710
+3	1996	"Belgium"	7.9	1805
+3	1997	"Belgium"	7.8	1852
+3	1998	"Belgium"	7.9	1923
+3	1999	"Belgium"	8.1	2048
+3	2000	"Belgium"	8.1	2245
+3	2001	"Belgium"	8.3	2364
+3	2002	"Belgium"	8.5	2542
+3	2003	"Belgium"	10	3034
+3	2004	"Belgium"	10.2	3164
+3	2005	"Belgium"	10.1	3231
+3	2006	"Belgium"	9.6	3279
+3	2007	"Belgium"	9.7	3437
+3	2008	"Belgium"	10.1	3714
+3	2009	"Belgium"	10.9	3946
+3	2010	"Belgium"		
+4	1960	"Canada"	5.4	123
+4	1961	"Canada"	5.8	135
+4	1962	"Canada"	5.8	143
+4	1963	"Canada"	5.9	153
+4	1964	"Canada"	5.9	162
+4	1965	"Canada"	5.9	177
+4	1966	"Canada"	5.9	191
+4	1967	"Canada"	6.2	208
+4	1968	"Canada"	6.5	236
+4	1969	"Canada"	6.6	262
+4	1970	"Canada"	6.9	294
+4	1971	"Canada"	7.2	331
+4	1972	"Canada"	7	352
+4	1973	"Canada"	6.7	374
+4	1974	"Canada"	6.6	411
+4	1975	"Canada"	7	479
+4	1976	"Canada"	7	525
+4	1977	"Canada"	6.9	568
+4	1978	"Canada"	6.9	625
+4	1979	"Canada"	6.8	683
+4	1980	"Canada"	7	777
+4	1981	"Canada"	7.2	894
+4	1982	"Canada"	8	1011
+4	1983	"Canada"	8.2	1092
+4	1984	"Canada"	8.1	1173
+4	1985	"Canada"	8.1	1259
+4	1986	"Canada"	8.4	1344
+4	1987	"Canada"	8.3	1410
+4	1988	"Canada"	8.2	1500
+4	1989	"Canada"	8.4	1609
+4	1990	"Canada"	8.9	1735
+4	1991	"Canada"	9.6	1874
+4	1992	"Canada"	9.8	1968
+4	1993	"Canada"	9.7	2011
+4	1994	"Canada"	9.4	2053
+4	1995	"Canada"	9	2056
+4	1996	"Canada"	8.8	2058
+4	1997	"Canada"	8.8	2151
+4	1998	"Canada"	9	2310
+4	1999	"Canada"	8.9	2416
+4	2000	"Canada"	8.8	2519
+4	2001	"Canada"	9.3	2733
+4	2002	"Canada"	9.6	2875
+4	2003	"Canada"	9.8	3055
+4	2004	"Canada"	9.8	3205
+4	2005	"Canada"	9.8	3442
+4	2006	"Canada"	10	3665
+4	2007	"Canada"	10	3844
+4	2008	"Canada"	10.3	4024
+4	2009	"Canada"	11.4	4363
+4	2010	"Canada"	11.3	4478
+5	1960	"Chile"		
+5	1961	"Chile"		
+5	1962	"Chile"		
+5	1963	"Chile"		
+5	1964	"Chile"		
+5	1965	"Chile"		
+5	1966	"Chile"		
+5	1967	"Chile"		
+5	1968	"Chile"		
+5	1969	"Chile"		
+5	1970	"Chile"		
+5	1971	"Chile"		
+5	1972	"Chile"		
+5	1973	"Chile"		
+5	1974	"Chile"		
+5	1975	"Chile"		
+5	1976	"Chile"		
+5	1977	"Chile"		
+5	1978	"Chile"		
+5	1979	"Chile"		
+5	1980	"Chile"		
+5	1981	"Chile"		
+5	1982	"Chile"		
+5	1983	"Chile"		
+5	1984	"Chile"		
+5	1985	"Chile"		
+5	1986	"Chile"		
+5	1987	"Chile"		
+5	1988	"Chile"		
+5	1989	"Chile"		
+5	1990	"Chile"		
+5	1991	"Chile"		
+5	1992	"Chile"		
+5	1993	"Chile"		
+5	1994	"Chile"		
+5	1995	"Chile"	5.3	398
+5	1996	"Chile"	5.8	467
+5	1997	"Chile"	5.9	510
+5	1998	"Chile"	6.4	568
+5	1999	"Chile"	6.6	581
+5	2000	"Chile"	6.6	615
+5	2001	"Chile"	6.8	656
+5	2002	"Chile"	6.7	671
+5	2003	"Chile"	7.5	781
+5	2004	"Chile"	7.1	798
+5	2005	"Chile"	6.9	843
+5	2006	"Chile"	6.6	863
+5	2007	"Chile"	6.9	959
+5	2008	"Chile"	7.5	1092
+5	2009	"Chile"	8.4	1186
+5	2010	"Chile"		
+6	1960	"Czech Republic"		
+6	1961	"Czech Republic"		
+6	1962	"Czech Republic"		
+6	1963	"Czech Republic"		
+6	1964	"Czech Republic"		
+6	1965	"Czech Republic"		
+6	1966	"Czech Republic"		
+6	1967	"Czech Republic"		
+6	1968	"Czech Republic"		
+6	1969	"Czech Republic"		
+6	1970	"Czech Republic"		
+6	1971	"Czech Republic"		
+6	1972	"Czech Republic"		
+6	1973	"Czech Republic"		
+6	1974	"Czech Republic"		
+6	1975	"Czech Republic"		
+6	1976	"Czech Republic"		
+6	1977	"Czech Republic"		
+6	1978	"Czech Republic"		
+6	1979	"Czech Republic"		
+6	1980	"Czech Republic"		
+6	1981	"Czech Republic"		
+6	1982	"Czech Republic"		
+6	1983	"Czech Republic"		
+6	1984	"Czech Republic"		
+6	1985	"Czech Republic"		
+6	1986	"Czech Republic"		
+6	1987	"Czech Republic"		
+6	1988	"Czech Republic"		
+6	1989	"Czech Republic"		
+6	1990	"Czech Republic"	4.7	558
+6	1991	"Czech Republic"	4.9	539
+6	1992	"Czech Republic"	5.1	567
+6	1993	"Czech Republic"	6.7	765
+6	1994	"Czech Republic"	6.9	815
+6	1995	"Czech Republic"	7	897
+6	1996	"Czech Republic"	6.7	915
+6	1997	"Czech Republic"	6.7	921
+6	1998	"Czech Republic"	6.6	925
+6	1999	"Czech Republic"	6.6	938
+6	2000	"Czech Republic"	6.5	981
+6	2001	"Czech Republic"	6.7	1081
+6	2002	"Czech Republic"	7.1	1195
+6	2003	"Czech Republic"	7.4	1338
+6	2004	"Czech Republic"	7.2	1387
+6	2005	"Czech Republic"	7.2	1475
+6	2006	"Czech Republic"	7	1556
+6	2007	"Czech Republic"	6.8	1661
+6	2008	"Czech Republic"	7.1	1839
+6	2009	"Czech Republic"	8.2	2108
+6	2010	"Czech Republic"		
+7	1960	"Denmark"		
+7	1961	"Denmark"		
+7	1962	"Denmark"		
+7	1963	"Denmark"		
+7	1964	"Denmark"		
+7	1965	"Denmark"		
+7	1966	"Denmark"		
+7	1967	"Denmark"		
+7	1968	"Denmark"		
+7	1969	"Denmark"		
+7	1970	"Denmark"		
+7	1971	"Denmark"	7.9	359
+7	1972	"Denmark"	8	392
+7	1973	"Denmark"	7.8	415
+7	1974	"Denmark"	8.5	488
+7	1975	"Denmark"	8.7	541
+7	1976	"Denmark"	8.6	597
+7	1977	"Denmark"	8.4	631
+7	1978	"Denmark"	8.5	697
+7	1979	"Denmark"	8.6	792
+7	1980	"Denmark"	8.9	893
+7	1981	"Denmark"	9.2	990
+7	1982	"Denmark"	9.2	1091
+7	1983	"Denmark"	8.9	1130
+7	1984	"Denmark"	8.5	1164
+7	1985	"Denmark"	8.5	1251
+7	1986	"Denmark"	8.2	1288
+7	1987	"Denmark"	8.5	1378
+7	1988	"Denmark"	8.6	1449
+7	1989	"Denmark"	8.5	1482
+7	1990	"Denmark"	8.3	1540
+7	1991	"Denmark"	8.2	1588
+7	1992	"Denmark"	8.3	1663
+7	1993	"Denmark"	8.6	1768
+7	1994	"Denmark"	8.4	1853
+7	1995	"Denmark"	8.1	1869
+7	1996	"Denmark"	8.2	1975
+7	1997	"Denmark"	8.2	2059
+7	1998	"Denmark"	8.2	2133
+7	1999	"Denmark"	9	2412
+7	2000	"Denmark"	8.7	2508
+7	2001	"Denmark"	9.1	2680
+7	2002	"Denmark"	9.3	2871
+7	2003	"Denmark"	9.5	2895
+7	2004	"Denmark"	9.7	3126
+7	2005	"Denmark"	9.8	3245
+7	2006	"Denmark"	9.9	3577
+7	2007	"Denmark"	10	3770
+7	2008	"Denmark"	10.3	4052
+7	2009	"Denmark"	11.5	4348
+7	2010	"Denmark"		
+8	1960	"Estonia"		
+8	1961	"Estonia"		
+8	1962	"Estonia"		
+8	1963	"Estonia"		
+8	1964	"Estonia"		
+8	1965	"Estonia"		
+8	1966	"Estonia"		
+8	1967	"Estonia"		
+8	1968	"Estonia"		
+8	1969	"Estonia"		
+8	1970	"Estonia"		
+8	1971	"Estonia"		
+8	1972	"Estonia"		
+8	1973	"Estonia"		
+8	1974	"Estonia"		
+8	1975	"Estonia"		
+8	1976	"Estonia"		
+8	1977	"Estonia"		
+8	1978	"Estonia"		
+8	1979	"Estonia"		
+8	1980	"Estonia"		
+8	1981	"Estonia"		
+8	1982	"Estonia"		
+8	1983	"Estonia"		
+8	1984	"Estonia"		
+8	1985	"Estonia"		
+8	1986	"Estonia"		
+8	1987	"Estonia"		
+8	1988	"Estonia"		
+8	1989	"Estonia"		
+8	1990	"Estonia"		
+8	1991	"Estonia"		
+8	1992	"Estonia"		
+8	1993	"Estonia"		
+8	1994	"Estonia"		
+8	1995	"Estonia"		
+8	1996	"Estonia"		
+8	1997	"Estonia"		
+8	1998	"Estonia"		
+8	1999	"Estonia"	5.9	513
+8	2000	"Estonia"	5.3	522
+8	2001	"Estonia"	4.9	521
+8	2002	"Estonia"	4.8	582
+8	2003	"Estonia"	5	669
+8	2004	"Estonia"	5.1	759
+8	2005	"Estonia"	5	831
+8	2006	"Estonia"	5	960
+8	2007	"Estonia"	5.2	1113
+8	2008	"Estonia"	6.1	1331
+8	2009	"Estonia"	7	1393
+8	2010	"Estonia"		
+9	1960	"Finland"	3.8	63
+9	1961	"Finland"	3.8	68
+9	1962	"Finland"	4	75
+9	1963	"Finland"	4.2	81
+9	1964	"Finland"	4.4	91
+9	1965	"Finland"	4.8	107
+9	1966	"Finland"	5	118
+9	1967	"Finland"	5.5	134
+9	1968	"Finland"	5.7	150
+9	1969	"Finland"	5.7	171
+9	1970	"Finland"	5.5	184
+9	1971	"Finland"	5.7	203
+9	1972	"Finland"	5.8	232
+9	1973	"Finland"	5.7	255
+9	1974	"Finland"	5.6	283
+9	1975	"Finland"	6.2	344
+9	1976	"Finland"	6.5	381
+9	1977	"Finland"	6.7	418
+9	1978	"Finland"	6.6	451
+9	1979	"Finland"	6.4	505
+9	1980	"Finland"	6.3	569
+9	1981	"Finland"	6.5	644
+9	1982	"Finland"	6.6	714
+9	1983	"Finland"	6.7	774
+9	1984	"Finland"	6.7	826
+9	1985	"Finland"	7.1	921
+9	1986	"Finland"	7.2	974
+9	1987	"Finland"	7.3	1055
+9	1988	"Finland"	7.1	1112
+9	1989	"Finland"	7.2	1219
+9	1990	"Finland"	7.7	1363
+9	1991	"Finland"	8.8	1500
+9	1992	"Finland"	9	1505
+9	1993	"Finland"	8.2	1390
+9	1994	"Finland"	7.7	1369
+9	1995	"Finland"	7.9	1475
+9	1996	"Finland"	8	1547
+9	1997	"Finland"	7.7	1616
+9	1998	"Finland"	7.4	1659
+9	1999	"Finland"	7.4	1741
+9	2000	"Finland"	7.2	1853
+9	2001	"Finland"	7.4	1970
+9	2002	"Finland"	7.8	2150
+9	2003	"Finland"	8.2	2251
+9	2004	"Finland"	8.2	2452
+9	2005	"Finland"	8.4	2589
+9	2006	"Finland"	8.4	2764
+9	2007	"Finland"	8.1	2910
+9	2008	"Finland"	8.4	3158
+9	2009	"Finland"	9.2	3226
+9	2010	"Finland"	8.9	3282
+10	1960	"France"	3.8	69
+10	1961	"France"		
+10	1962	"France"		
+10	1963	"France"		
+10	1964	"France"		
+10	1965	"France"	4.7	117
+10	1966	"France"		
+10	1967	"France"		
+10	1968	"France"		
+10	1969	"France"		
+10	1970	"France"	5.4	193
+10	1971	"France"		
+10	1972	"France"		
+10	1973	"France"		
+10	1974	"France"		
+10	1975	"France"	6.4	367
+10	1976	"France"		
+10	1977	"France"		
+10	1978	"France"		
+10	1979	"France"		
+10	1980	"France"	7	666
+10	1981	"France"		
+10	1982	"France"		
+10	1983	"France"		
+10	1984	"France"		
+10	1985	"France"	8	1031
+10	1986	"France"		
+10	1987	"France"		
+10	1988	"France"		
+10	1989	"France"		
+10	1990	"France"	8.4	1445
+10	1991	"France"	8.6	1553
+10	1992	"France"	8.9	1650
+10	1993	"France"	9.3	1750
+10	1994	"France"	9.3	1810
+10	1995	"France"	10.4	2100
+10	1996	"France"	10.4	2161
+10	1997	"France"	10.2	2228
+10	1998	"France"	10.1	2313
+10	1999	"France"	10.1	2404
+10	2000	"France"	10.1	2553
+10	2001	"France"	10.2	2726
+10	2002	"France"	10.5	2931
+10	2003	"France"	10.9	2991
+10	2004	"France"	11	3122
+10	2005	"France"	11.1	3306
+10	2006	"France"	11	3493
+10	2007	"France"	11	3679
+10	2008	"France"	11.1	3809
+10	2009	"France"	11.8	3978
+10	2010	"France"		
+11	1960	"Germany"		
+11	1961	"Germany"		
+11	1962	"Germany"		
+11	1963	"Germany"		
+11	1964	"Germany"		
+11	1965	"Germany"		
+11	1966	"Germany"		
+11	1967	"Germany"		
+11	1968	"Germany"		
+11	1969	"Germany"		
+11	1970	"Germany"	6	268
+11	1971	"Germany"	6.5	310
+11	1972	"Germany"	6.8	352
+11	1973	"Germany"	7.2	407
+11	1974	"Germany"	7.7	481
+11	1975	"Germany"	8.4	569
+11	1976	"Germany"	8.4	635
+11	1977	"Germany"	8.3	691
+11	1978	"Germany"	8.4	773
+11	1979	"Germany"	8.2	853
+11	1980	"Germany"	8.4	967
+11	1981	"Germany"	8.7	1096
+11	1982	"Germany"	8.6	1143
+11	1983	"Germany"	8.6	1207
+11	1984	"Germany"	8.6	1305
+11	1985	"Germany"	8.8	1403
+11	1986	"Germany"	8.7	1448
+11	1987	"Germany"	8.8	1529
+11	1988	"Germany"	8.9	1662
+11	1989	"Germany"	8.3	1655
+11	1990	"Germany"	8.3	1764
+11	1991	"Germany"		
+11	1992	"Germany"	9.6	1977
+11	1993	"Germany"	9.6	1990
+11	1994	"Germany"	9.8	2123
+11	1995	"Germany"	10.1	2267
+11	1996	"Germany"	10.4	2392
+11	1997	"Germany"	10.2	2410
+11	1998	"Germany"	10.2	2480
+11	1999	"Germany"	10.3	2581
+11	2000	"Germany"	10.3	2669
+11	2001	"Germany"	10.4	2797
+11	2002	"Germany"	10.6	2934
+11	2003	"Germany"	10.8	3097
+11	2004	"Germany"	10.6	3170
+11	2005	"Germany"	10.7	3364
+11	2006	"Germany"	10.6	3565
+11	2007	"Germany"	10.5	3724
+11	2008	"Germany"	10.7	3963
+11	2009	"Germany"	11.6	4218
+11	2010	"Germany"		
+12	1960	"Greece"		
+12	1961	"Greece"		
+12	1962	"Greece"		
+12	1963	"Greece"		
+12	1964	"Greece"		
+12	1965	"Greece"		
+12	1966	"Greece"		
+12	1967	"Greece"		
+12	1968	"Greece"		
+12	1969	"Greece"		
+12	1970	"Greece"	5.40299	160
+12	1971	"Greece"		
+12	1972	"Greece"		
+12	1973	"Greece"		
+12	1974	"Greece"		
+12	1975	"Greece"		
+12	1976	"Greece"		
+12	1977	"Greece"		
+12	1978	"Greece"		
+12	1979	"Greece"		
+12	1980	"Greece"	5.9	489
+12	1981	"Greece"		
+12	1982	"Greece"		
+12	1983	"Greece"		
+12	1984	"Greece"		
+12	1985	"Greece"		
+12	1986	"Greece"		
+12	1987	"Greece"	6.60453	711
+12	1988	"Greece"	5.9	686
+12	1989	"Greece"	6.5	809
+12	1990	"Greece"	6.6	845
+12	1991	"Greece"	6.4	872
+12	1992	"Greece"	7	972
+12	1993	"Greece"	7.9	1083
+12	1994	"Greece"	8.6	1224
+12	1995	"Greece"	8.6	1261
+12	1996	"Greece"	8.6	1298
+12	1997	"Greece"	8.4	1354
+12	1998	"Greece"	8.4	1382
+12	1999	"Greece"	8.6	1468
+12	2000	"Greece"	7.9	1451
+12	2001	"Greece"	8.8	1755
+12	2002	"Greece"	9.1	1965
+12	2003	"Greece"	8.9	2028
+12	2004	"Greece"	8.7	2091
+12	2005	"Greece"	9.6	2352
+12	2006	"Greece"	9.6	2608
+12	2007	"Greece"	9.6	2724
+12	2008	"Greece"		
+12	2009	"Greece"		
+12	2010	"Greece"		
+13	1960	"Hungary"		
+13	1961	"Hungary"		
+13	1962	"Hungary"		
+13	1963	"Hungary"		
+13	1964	"Hungary"		
+13	1965	"Hungary"		
+13	1966	"Hungary"		
+13	1967	"Hungary"		
+13	1968	"Hungary"		
+13	1969	"Hungary"		
+13	1970	"Hungary"		
+13	1971	"Hungary"		
+13	1972	"Hungary"		
+13	1973	"Hungary"		
+13	1974	"Hungary"		
+13	1975	"Hungary"		
+13	1976	"Hungary"		
+13	1977	"Hungary"		
+13	1978	"Hungary"		
+13	1979	"Hungary"		
+13	1980	"Hungary"		
+13	1981	"Hungary"		
+13	1982	"Hungary"		
+13	1983	"Hungary"		
+13	1984	"Hungary"		
+13	1985	"Hungary"		
+13	1986	"Hungary"		
+13	1987	"Hungary"		
+13	1988	"Hungary"		
+13	1989	"Hungary"		
+13	1990	"Hungary"		
+13	1991	"Hungary"	7	576
+13	1992	"Hungary"	7.6	614
+13	1993	"Hungary"	7.6	627
+13	1994	"Hungary"	8.1	707
+13	1995	"Hungary"	7.3	658
+13	1996	"Hungary"	7	658
+13	1997	"Hungary"	6.7	678
+13	1998	"Hungary"	7.1	763
+13	1999	"Hungary"	7.2	810
+13	2000	"Hungary"	7	853
+13	2001	"Hungary"	7.1	970
+13	2002	"Hungary"	7.5	1114
+13	2003	"Hungary"	8.3	1283
+13	2004	"Hungary"	8	1305
+13	2005	"Hungary"	8.3	1411
+13	2006	"Hungary"	8.1	1486
+13	2007	"Hungary"	7.5	1433
+13	2008	"Hungary"	7.2	1495
+13	2009	"Hungary"	7.4	1511
+13	2010	"Hungary"		
+14	1960	"Iceland"	3	57
+14	1961	"Iceland"	3	58
+14	1962	"Iceland"	3.3	67
+14	1963	"Iceland"	3.3	75
+14	1964	"Iceland"	3.5	87
+14	1965	"Iceland"	3.5	94
+14	1966	"Iceland"	3.6	107
+14	1967	"Iceland"	3.9	118
+14	1968	"Iceland"	5.4	159
+14	1969	"Iceland"	4.6	143
+14	1970	"Iceland"	4.7	175
+14	1971	"Iceland"	5.2	224
+14	1972	"Iceland"	5.1	240
+14	1973	"Iceland"	4.6	244
+14	1974	"Iceland"	5.3	317
+14	1975	"Iceland"	5.7	373
+14	1976	"Iceland"	5.4	388
+14	1977	"Iceland"	5.3	441
+14	1978	"Iceland"	5.7	534
+14	1979	"Iceland"	6.5	680
+14	1980	"Iceland"	6.3	752
+14	1981	"Iceland"	6.5	877
+14	1982	"Iceland"	6.8	979
+14	1983	"Iceland"	7.4	1068
+14	1984	"Iceland"	6.9	1065
+14	1985	"Iceland"	7.2	1178
+14	1986	"Iceland"	7.7	1357
+14	1987	"Iceland"	7.8	1533
+14	1988	"Iceland"	8.4	1668
+14	1989	"Iceland"	8.2	1677
+14	1990	"Iceland"	7.8	1662
+14	1991	"Iceland"	8	1745
+14	1992	"Iceland"	8.2	1734
+14	1993	"Iceland"	8.3	1798
+14	1994	"Iceland"	8.1	1842
+14	1995	"Iceland"	8.2	1905
+14	1996	"Iceland"	8.2	1973
+14	1997	"Iceland"	8.1	2113
+14	1998	"Iceland"	8.9	2478
+14	1999	"Iceland"	9.6	2756
+14	2000	"Iceland"	9.5	2740
+14	2001	"Iceland"	9.3	2844
+14	2002	"Iceland"	10.2	3156
+14	2003	"Iceland"	10.4	3194
+14	2004	"Iceland"	9.9	3334
+14	2005	"Iceland"	9.4	3304
+14	2006	"Iceland"	9.1	3193
+14	2007	"Iceland"	9.1	3320
+14	2008	"Iceland"	9.1	3571
+14	2009	"Iceland"	9.7	3538
+14	2010	"Iceland"	9.3	3366
+15	1960	"Ireland"	3.7	43
+15	1961	"Ireland"	3.5	44
+15	1962	"Ireland"	3.8	49
+15	1963	"Ireland"	3.8	53
+15	1964	"Ireland"	3.8	55
+15	1965	"Ireland"	4	61
+15	1966	"Ireland"	4.5	71
+15	1967	"Ireland"	4.8	83
+15	1968	"Ireland"	4.6	89
+15	1969	"Ireland"	4.8	103
+15	1970	"Ireland"	5.1	116
+15	1971	"Ireland"	6	148
+15	1972	"Ireland"	6.1	164
+15	1973	"Ireland"	6.2	182
+15	1974	"Ireland"	6.7	220
+15	1975	"Ireland"	7.3	274
+15	1976	"Ireland"	7.2	285
+15	1977	"Ireland"	6.9	309
+15	1978	"Ireland"	7.3	372
+15	1979	"Ireland"	7.5	417
+15	1980	"Ireland"	8.2	511
+15	1981	"Ireland"	7.9	544
+15	1982	"Ireland"	7.6	564
+15	1983	"Ireland"	7.7	587
+15	1984	"Ireland"	7.4	610
+15	1985	"Ireland"	7.5	654
+15	1986	"Ireland"	7.4	653
+15	1987	"Ireland"	7.1	677
+15	1988	"Ireland"	6.7	700
+15	1989	"Ireland"	6.3	725
+15	1990	"Ireland"	6.1	788
+15	1991	"Ireland"	6.5	884
+15	1992	"Ireland"	7	1006
+15	1993	"Ireland"	6.9	1034
+15	1994	"Ireland"	6.9	1115
+15	1995	"Ireland"	6.6	1190
+15	1996	"Ireland"	6.5	1273
+15	1997	"Ireland"	6.3	1375
+15	1998	"Ireland"	6.2	1480
+15	1999	"Ireland"	6.1	1578
+15	2000	"Ireland"	6.1	1768
+15	2001	"Ireland"	6.7	2069
+15	2002	"Ireland"	7.1	2344
+15	2003	"Ireland"	7.4	2550
+15	2004	"Ireland"	7.6	2777
+15	2005	"Ireland"	7.6	2959
+15	2006	"Ireland"	7.5	3200
+15	2007	"Ireland"	7.7	3494
+15	2008	"Ireland"	8.8	3784
+15	2009	"Ireland"	9.5	3781
+15	2010	"Ireland"		
+16	1960	"Israel"		
+16	1961	"Israel"		
+16	1962	"Israel"		
+16	1963	"Israel"		
+16	1964	"Israel"		
+16	1965	"Israel"		
+16	1966	"Israel"		
+16	1967	"Israel"		
+16	1968	"Israel"		
+16	1969	"Israel"		
+16	1970	"Israel"		
+16	1971	"Israel"		
+16	1972	"Israel"		
+16	1973	"Israel"		
+16	1974	"Israel"		
+16	1975	"Israel"	5.5	
+16	1976	"Israel"	6	
+16	1977	"Israel"	6.7	
+16	1978	"Israel"	7.4	
+16	1979	"Israel"	7.8	
+16	1980	"Israel"	7.7	
+16	1981	"Israel"	7.5	
+16	1982	"Israel"	7.6	
+16	1983	"Israel"	8.1	
+16	1984	"Israel"	9.8	
+16	1985	"Israel"	7.2	
+16	1986	"Israel"	6.6	
+16	1987	"Israel"	6.9	
+16	1988	"Israel"	7.1	
+16	1989	"Israel"	7.6	
+16	1990	"Israel"	7.1	
+16	1991	"Israel"	6.8	
+16	1992	"Israel"	7	
+16	1993	"Israel"	7.3	
+16	1994	"Israel"	7.8	1383
+16	1995	"Israel"	7.6	1436
+16	1996	"Israel"	7.7	1523
+16	1997	"Israel"	7.9	1606
+16	1998	"Israel"	7.8	1623
+16	1999	"Israel"	7.5	1606
+16	2000	"Israel"	7.5	1766
+16	2001	"Israel"	8	1882
+16	2002	"Israel"	7.9	1870
+16	2003	"Israel"	7.9	1750
+16	2004	"Israel"	7.8	1835
+16	2005	"Israel"	7.8	1829
+16	2006	"Israel"	7.6	1897
+16	2007	"Israel"	7.6	2012
+16	2008	"Israel"	7.7	2142
+16	2009	"Israel"	7.9	2164
+16	2010	"Israel"		
+17	1960	"Italy"		
+17	1961	"Italy"		
+17	1962	"Italy"		
+17	1963	"Italy"		
+17	1964	"Italy"		
+17	1965	"Italy"		
+17	1966	"Italy"		
+17	1967	"Italy"		
+17	1968	"Italy"		
+17	1969	"Italy"		
+17	1970	"Italy"		
+17	1971	"Italy"		
+17	1972	"Italy"		
+17	1973	"Italy"		
+17	1974	"Italy"		
+17	1975	"Italy"		
+17	1976	"Italy"		
+17	1977	"Italy"		
+17	1978	"Italy"		
+17	1979	"Italy"		
+17	1980	"Italy"		
+17	1981	"Italy"		
+17	1982	"Italy"		
+17	1983	"Italy"		
+17	1984	"Italy"		
+17	1985	"Italy"		
+17	1986	"Italy"		
+17	1987	"Italy"		
+17	1988	"Italy"	7.3	1131
+17	1989	"Italy"	7.3	1211
+17	1990	"Italy"	7.7	1355
+17	1991	"Italy"	7.9	1468
+17	1992	"Italy"	8	1521
+17	1993	"Italy"	7.9	1519
+17	1994	"Italy"	7.6	1529
+17	1995	"Italy"	7.3	1531
+17	1996	"Italy"	7.4	1608
+17	1997	"Italy"	7.7	1728
+17	1998	"Italy"	7.7	1833
+17	1999	"Italy"	7.8	1885
+17	2000	"Italy"	8.1	2064
+17	2001	"Italy"	8.2	2228
+17	2002	"Italy"	8.3	2235
+17	2003	"Italy"	8.3	2265
+17	2004	"Italy"	8.7	2373
+17	2005	"Italy"	8.9	2516
+17	2006	"Italy"	9	2725
+17	2007	"Italy"	8.7	2771
+17	2008	"Italy"	9	3059
+17	2009	"Italy"	9.5	3137
+17	2010	"Italy"	9.6	3236
+18	1960	"Japan"	3	30
+18	1961	"Japan"	3.4	39
+18	1962	"Japan"	3.6	45
+18	1963	"Japan"	3.8	53
+18	1964	"Japan"	3.5	54
+18	1965	"Japan"	4.4	73
+18	1966	"Japan"	4.5	85
+18	1967	"Japan"	4.6	98
+18	1968	"Japan"	4.6	115
+18	1969	"Japan"	4.6	134
+18	1970	"Japan"	4.5	140
+18	1971	"Japan"	4.6	156
+18	1972	"Japan"	4.7	177
+18	1973	"Japan"	4.6	194
+18	1974	"Japan"	5.1	227
+18	1975	"Japan"	5.6	278
+18	1976	"Japan"	5.6	302
+18	1977	"Japan"	5.7	341
+18	1978	"Japan"	5.9	394
+18	1979	"Japan"	6	456
+18	1980	"Japan"	6.4	541
+18	1981	"Japan"	6.5	619
+18	1982	"Japan"	6.7	690
+18	1983	"Japan"	6.8	746
+18	1984	"Japan"	6.6	780
+18	1985	"Japan"	6.6	857
+18	1986	"Japan"	6.6	890
+18	1987	"Japan"	6.6	950
+18	1988	"Japan"	6.3	1002
+18	1989	"Japan"	6.1	1048
+18	1990	"Japan"	5.9	1115
+18	1991	"Japan"	5.9	1198
+18	1992	"Japan"	6.2	1287
+18	1993	"Japan"	6.5	1373
+18	1994	"Japan"	6.8	1471
+18	1995	"Japan"	6.9	1554
+18	1996	"Japan"	7	1658
+18	1997	"Japan"	7	1696
+18	1998	"Japan"	7.3	1745
+18	1999	"Japan"	7.5	1830
+18	2000	"Japan"	7.7	1974
+18	2001	"Japan"	7.9	2074
+18	2002	"Japan"	8	2141
+18	2003	"Japan"	8.1	2235
+18	2004	"Japan"	8.1	2347
+18	2005	"Japan"	8.2	2491
+18	2006	"Japan"	8.2	2609
+18	2007	"Japan"	8.2	2750
+18	2008	"Japan"	8.5	2878
+18	2009	"Japan"		
+18	2010	"Japan"		
+19	1960	"Korea"		
+19	1961	"Korea"		
+19	1962	"Korea"		
+19	1963	"Korea"		
+19	1964	"Korea"		
+19	1965	"Korea"		
+19	1966	"Korea"		
+19	1967	"Korea"		
+19	1968	"Korea"		
+19	1969	"Korea"		
+19	1970	"Korea"		
+19	1971	"Korea"		
+19	1972	"Korea"		
+19	1973	"Korea"		
+19	1974	"Korea"		
+19	1975	"Korea"		
+19	1976	"Korea"		
+19	1977	"Korea"		
+19	1978	"Korea"		
+19	1979	"Korea"		
+19	1980	"Korea"	3.7	89
+19	1981	"Korea"	3.8	106
+19	1982	"Korea"	3.8	120
+19	1983	"Korea"	3.7	134
+19	1984	"Korea"	3.5	144
+19	1985	"Korea"	3.6	159
+19	1986	"Korea"	3.4	171
+19	1987	"Korea"	3.3	191
+19	1988	"Korea"	3.5	230
+19	1989	"Korea"	4	288
+19	1990	"Korea"	4	325
+19	1991	"Korea"	3.9	354
+19	1992	"Korea"	4.1	403
+19	1993	"Korea"	4	421
+19	1994	"Korea"	3.9	458
+19	1995	"Korea"	3.8	480
+19	1996	"Korea"	3.9	543
+19	1997	"Korea"	3.9	580
+19	1998	"Korea"	4.1	567
+19	1999	"Korea"	4.3	665
+19	2000	"Korea"	4.5	771
+19	2001	"Korea"	5.1	918
+19	2002	"Korea"	4.9	966
+19	2003	"Korea"	5.2	1046
+19	2004	"Korea"	5.3	1136
+19	2005	"Korea"	5.7	1291
+19	2006	"Korea"	6	1469
+19	2007	"Korea"	6.3	1651
+19	2008	"Korea"	6.5	1736
+19	2009	"Korea"	6.9	1879
+19	2010	"Korea"	7	1980
+20	1960	"Luxembourg"		
+20	1961	"Luxembourg"		
+20	1962	"Luxembourg"		
+20	1963	"Luxembourg"		
+20	1964	"Luxembourg"		
+20	1965	"Luxembourg"		
+20	1966	"Luxembourg"		
+20	1967	"Luxembourg"		
+20	1968	"Luxembourg"		
+20	1969	"Luxembourg"		
+20	1970	"Luxembourg"	3.1	
+20	1971	"Luxembourg"	3.5	
+20	1972	"Luxembourg"	3.5	
+20	1973	"Luxembourg"	3.2	
+20	1974	"Luxembourg"	3.2	
+20	1975	"Luxembourg"	4.3	
+20	1976	"Luxembourg"	4.4	
+20	1977	"Luxembourg"	4.7	
+20	1978	"Luxembourg"	5	
+20	1979	"Luxembourg"	5	
+20	1980	"Luxembourg"	5.2	
+20	1981	"Luxembourg"	5.4	
+20	1982	"Luxembourg"	5.3	
+20	1983	"Luxembourg"	5.2	
+20	1984	"Luxembourg"	5.1	
+20	1985	"Luxembourg"	5.2	
+20	1986	"Luxembourg"	5	
+20	1987	"Luxembourg"	5.5	
+20	1988	"Luxembourg"	5.3	
+20	1989	"Luxembourg"	5.2	
+20	1990	"Luxembourg"	5.4	
+20	1991	"Luxembourg"	5.1	
+20	1992	"Luxembourg"	5.4	
+20	1993	"Luxembourg"	5.5	
+20	1994	"Luxembourg"	5.3	
+20	1995	"Luxembourg"	5.6	1906
+20	1996	"Luxembourg"	5.7	1986
+20	1997	"Luxembourg"	5.6	1971
+20	1998	"Luxembourg"	5.7	2082
+20	1999	"Luxembourg"	5.8	2384
+20	2000	"Luxembourg"	7.5	3268
+20	2001	"Luxembourg"	7.4	3182
+20	2002	"Luxembourg"	8.3	3746
+20	2003	"Luxembourg"	7.7	3632
+20	2004	"Luxembourg"	8.2	4118
+20	2005	"Luxembourg"	7.9	4152
+20	2006	"Luxembourg"	7.7	4603
+20	2007	"Luxembourg"	7.1	4494
+20	2008	"Luxembourg"	6.8	4451
+20	2009	"Luxembourg"	7.8	4808
+20	2010	"Luxembourg"		
+21	1960	"Mexico"		
+21	1961	"Mexico"		
+21	1962	"Mexico"		
+21	1963	"Mexico"		
+21	1964	"Mexico"		
+21	1965	"Mexico"		
+21	1966	"Mexico"		
+21	1967	"Mexico"		
+21	1968	"Mexico"		
+21	1969	"Mexico"		
+21	1970	"Mexico"		
+21	1971	"Mexico"		
+21	1972	"Mexico"		
+21	1973	"Mexico"		
+21	1974	"Mexico"		
+21	1975	"Mexico"		
+21	1976	"Mexico"		
+21	1977	"Mexico"		
+21	1978	"Mexico"		
+21	1979	"Mexico"		
+21	1980	"Mexico"		
+21	1981	"Mexico"		
+21	1982	"Mexico"		
+21	1983	"Mexico"		
+21	1984	"Mexico"		
+21	1985	"Mexico"		
+21	1986	"Mexico"		
+21	1987	"Mexico"		
+21	1988	"Mexico"		
+21	1989	"Mexico"		
+21	1990	"Mexico"	4.4	296
+21	1991	"Mexico"	4.7	337
+21	1992	"Mexico"	5.1	377
+21	1993	"Mexico"	5.3	400
+21	1994	"Mexico"	5.3	420
+21	1995	"Mexico"	5.1	385
+21	1996	"Mexico"	4.7	370
+21	1997	"Mexico"	4.8	407
+21	1998	"Mexico"	4.9	434
+21	1999	"Mexico"	5.1	470
+21	2000	"Mexico"	5.1	508
+21	2001	"Mexico"	5.5	552
+21	2002	"Mexico"	5.6	584
+21	2003	"Mexico"	5.8	629
+21	2004	"Mexico"	6	688
+21	2005	"Mexico"	5.9	731
+21	2006	"Mexico"	5.7	776
+21	2007	"Mexico"	5.8	842
+21	2008	"Mexico"	5.8	892
+21	2009	"Mexico"	6.4	918
+21	2010	"Mexico"	6.1	934
+22	1960	"Netherlands"		
+22	1961	"Netherlands"		
+22	1962	"Netherlands"		
+22	1963	"Netherlands"		
+22	1964	"Netherlands"		
+22	1965	"Netherlands"		
+22	1966	"Netherlands"		
+22	1967	"Netherlands"		
+22	1968	"Netherlands"		
+22	1969	"Netherlands"		
+22	1970	"Netherlands"		
+22	1971	"Netherlands"		
+22	1972	"Netherlands"	6.9	316
+22	1973	"Netherlands"	6.6	335
+22	1974	"Netherlands"	6.7	385
+22	1975	"Netherlands"	7	439
+22	1976	"Netherlands"	6.9	474
+22	1977	"Netherlands"	7	519
+22	1978	"Netherlands"	7.2	576
+22	1979	"Netherlands"	7.3	644
+22	1980	"Netherlands"	7.4	732
+22	1981	"Netherlands"	7.5	799
+22	1982	"Netherlands"	7.8	866
+22	1983	"Netherlands"	7.7	899
+22	1984	"Netherlands"	7.4	921
+22	1985	"Netherlands"	7.3	960
+22	1986	"Netherlands"	7.4	1021
+22	1987	"Netherlands"	7.6	1085
+22	1988	"Netherlands"	7.6	1161
+22	1989	"Netherlands"	7.9	1298
+22	1990	"Netherlands"	8	1412
+22	1991	"Netherlands"	8.2	1514
+22	1992	"Netherlands"	8.4	1602
+22	1993	"Netherlands"	8.5	1669
+22	1994	"Netherlands"	8.3	1714
+22	1995	"Netherlands"	8.3	1795
+22	1996	"Netherlands"	8.2	1859
+22	1997	"Netherlands"	7.9	1915
+22	1998	"Netherlands"	8.1	2054
+22	1999	"Netherlands"	8.1	2178
+22	2000	"Netherlands"	8	2340
+22	2001	"Netherlands"	8.3	2555
+22	2002	"Netherlands"	8.9	2833
+22	2003	"Netherlands"	9.8	3097
+22	2004	"Netherlands"	10	3309
+22	2005	"Netherlands"	9.8	3450
+22	2006	"Netherlands"	9.7	3613
+22	2007	"Netherlands"	9.7	3944
+22	2008	"Netherlands"	9.9	4241
+22	2009	"Netherlands"	12	4914
+22	2010	"Netherlands"		
+23	1960	"New Zealand"		
+23	1961	"New Zealand"		
+23	1962	"New Zealand"		
+23	1963	"New Zealand"		
+23	1964	"New Zealand"		
+23	1965	"New Zealand"		
+23	1966	"New Zealand"		
+23	1967	"New Zealand"		
+23	1968	"New Zealand"		
+23	1969	"New Zealand"		
+23	1970	"New Zealand"	5.2	214
+23	1971	"New Zealand"	5.2	226
+23	1972	"New Zealand"	5.2	245
+23	1973	"New Zealand"	5.4	285
+23	1974	"New Zealand"	6.1	360
+23	1975	"New Zealand"	6.6	416
+23	1976	"New Zealand"	6.1	406
+23	1977	"New Zealand"	6.4	433
+23	1978	"New Zealand"	6.9	493
+23	1979	"New Zealand"	6.4	496
+23	1980	"New Zealand"	5.8	498
+23	1981	"New Zealand"	5.8	553
+23	1982	"New Zealand"	5.9	624
+23	1983	"New Zealand"	5.8	642
+23	1984	"New Zealand"	5.5	657
+23	1985	"New Zealand"	5	624
+23	1986	"New Zealand"	5.1	663
+23	1987	"New Zealand"	5.7	763
+23	1988	"New Zealand"	6.3	850
+23	1989	"New Zealand"	6.4	905
+23	1990	"New Zealand"	6.8	983
+23	1991	"New Zealand"	7.3	1043
+23	1992	"New Zealand"	7.4	1095
+23	1993	"New Zealand"	7.1	1114
+23	1994	"New Zealand"	7.1	1190
+23	1995	"New Zealand"	7.1	1245
+23	1996	"New Zealand"	7	1269
+23	1997	"New Zealand"	7.2	1352
+23	1998	"New Zealand"	7.7	1451
+23	1999	"New Zealand"	7.5	1522
+23	2000	"New Zealand"	7.6	1607
+23	2001	"New Zealand"	7.7	1709
+23	2002	"New Zealand"	8	1841
+23	2003	"New Zealand"	7.9	1850
+23	2004	"New Zealand"	8.3	2044
+23	2005	"New Zealand"	8.7	2197
+23	2006	"New Zealand"	9.1	2467
+23	2007	"New Zealand"	8.8	2525
+23	2008	"New Zealand"	9.6	2784
+23	2009	"New Zealand"	10.3	2983
+23	2010	"New Zealand"		
+24	1960	"Norway"	2.9	49
+24	1961	"Norway"	3	55
+24	1962	"Norway"	3.2	62
+24	1963	"Norway"	3.4	68
+24	1964	"Norway"	3.5	73
+24	1965	"Norway"	3.4	78
+24	1966	"Norway"	3.6	88
+24	1967	"Norway"	3.7	96
+24	1968	"Norway"	3.8	107
+24	1969	"Norway"	4	123
+24	1970	"Norway"	4.4	143
+24	1971	"Norway"	4.7	167
+24	1972	"Norway"	5.1	201
+24	1973	"Norway"	5.3	227
+24	1974	"Norway"	5.4	258
+24	1975	"Norway"	5.9	322
+24	1976	"Norway"	6	368
+24	1977	"Norway"	6.2	420
+24	1978	"Norway"	6.8	507
+24	1979	"Norway"	6.2	521
+24	1980	"Norway"	7	665
+24	1981	"Norway"	6.7	708
+24	1982	"Norway"	6.8	762
+24	1983	"Norway"	7	844
+24	1984	"Norway"	6.7	881
+24	1985	"Norway"	6.6	939
+24	1986	"Norway"	7	1068
+24	1987	"Norway"	7.5	1190
+24	1988	"Norway"	7.7	1253
+24	1989	"Norway"	7.5	1279
+24	1990	"Norway"	7.6	1366
+24	1991	"Norway"	8	1520
+24	1992	"Norway"	8.1	1620
+24	1993	"Norway"	7.9	1661
+24	1994	"Norway"	7.9	1750
+24	1995	"Norway"	7.9	1858
+24	1996	"Norway"	7.8	2038
+24	1997	"Norway"	8.4	2349
+24	1998	"Norway"	9.3	2537
+24	1999	"Norway"	9.3	2780
+24	2000	"Norway"	8.4	3043
+24	2001	"Norway"	8.8	3265
+24	2002	"Norway"	9.8	3628
+24	2003	"Norway"	10	3835
+24	2004	"Norway"	9.7	4078
+24	2005	"Norway"	9.1	4301
+24	2006	"Norway"	8.6	4507
+24	2007	"Norway"	8.9	4885
+24	2008	"Norway"	8.6	5230
+24	2009	"Norway"	9.6	5352
+24	2010	"Norway"		
+25	1960	"Poland"		
+25	1961	"Poland"		
+25	1962	"Poland"		
+25	1963	"Poland"		
+25	1964	"Poland"		
+25	1965	"Poland"		
+25	1966	"Poland"		
+25	1967	"Poland"		
+25	1968	"Poland"		
+25	1969	"Poland"		
+25	1970	"Poland"		
+25	1971	"Poland"		
+25	1972	"Poland"		
+25	1973	"Poland"		
+25	1974	"Poland"		
+25	1975	"Poland"		
+25	1976	"Poland"		
+25	1977	"Poland"		
+25	1978	"Poland"		
+25	1979	"Poland"		
+25	1980	"Poland"		
+25	1981	"Poland"		
+25	1982	"Poland"		
+25	1983	"Poland"		
+25	1984	"Poland"		
+25	1985	"Poland"		
+25	1986	"Poland"		
+25	1987	"Poland"		
+25	1988	"Poland"		
+25	1989	"Poland"		
+25	1990	"Poland"	4.8	289
+25	1991	"Poland"	6	345
+25	1992	"Poland"	6.1	365
+25	1993	"Poland"	5.8	371
+25	1994	"Poland"	5.5	374
+25	1995	"Poland"	5.5	410
+25	1996	"Poland"	5.9	477
+25	1997	"Poland"	5.6	497
+25	1998	"Poland"	5.9	559
+25	1999	"Poland"	5.7	573
+25	2000	"Poland"	5.5	583
+25	2001	"Poland"	5.9	642
+25	2002	"Poland"	6.3	733
+25	2003	"Poland"	6.2	748
+25	2004	"Poland"	6.2	807
+25	2005	"Poland"	6.2	857
+25	2006	"Poland"	6.2	934
+25	2007	"Poland"	6.4	1078
+25	2008	"Poland"	7	1265
+25	2009	"Poland"	7.4	1394
+25	2010	"Poland"		
+26	1960	"Portugal"		
+26	1961	"Portugal"		
+26	1962	"Portugal"		
+26	1963	"Portugal"		
+26	1964	"Portugal"		
+26	1965	"Portugal"		
+26	1966	"Portugal"		
+26	1967	"Portugal"		
+26	1968	"Portugal"		
+26	1969	"Portugal"		
+26	1970	"Portugal"	2.4	47
+26	1971	"Portugal"	2.5	55
+26	1972	"Portugal"	3.2	78
+26	1973	"Portugal"	3.4	99
+26	1974	"Portugal"	3.6	114
+26	1975	"Portugal"	5	158
+26	1976	"Portugal"	4.8	167
+26	1977	"Portugal"	4.3	169
+26	1978	"Portugal"	4.5	191
+26	1979	"Portugal"	4.4	210
+26	1980	"Portugal"	5.1	277
+26	1981	"Portugal"	5.5	325
+26	1982	"Portugal"	5.4	348
+26	1983	"Portugal"	5.1	339
+26	1984	"Portugal"	5.2	349
+26	1985	"Portugal"	5.6	395
+26	1986	"Portugal"	6.2	465
+26	1987	"Portugal"	6	493
+26	1988	"Portugal"	6.2	570
+26	1989	"Portugal"	5.7	581
+26	1990	"Portugal"	5.7	628
+26	1991	"Portugal"	6.2	744
+26	1992	"Portugal"	6.4	793
+26	1993	"Portugal"	6.7	828
+26	1994	"Portugal"	6.7	856
+26	1995	"Portugal"	7.5	1014
+26	1996	"Portugal"	7.8	1093
+26	1997	"Portugal"	7.8	1161
+26	1998	"Portugal"	7.7	1210
+26	1999	"Portugal"	8	1329
+26	2000	"Portugal"	9.3	1654
+26	2001	"Portugal"	9.3	1714
+26	2002	"Portugal"	9.3	1780
+26	2003	"Portugal"	9.8	1894
+26	2004	"Portugal"	10.1	1996
+26	2005	"Portugal"	10.4	2212
+26	2006	"Portugal"	10.1	2303
+26	2007	"Portugal"	10	2419
+26	2008	"Portugal"	10.1	2508
+26	2009	"Portugal"		
+26	2010	"Portugal"		
+27	1960	"Slovak Republic"		
+27	1961	"Slovak Republic"		
+27	1962	"Slovak Republic"		
+27	1963	"Slovak Republic"		
+27	1964	"Slovak Republic"		
+27	1965	"Slovak Republic"		
+27	1966	"Slovak Republic"		
+27	1967	"Slovak Republic"		
+27	1968	"Slovak Republic"		
+27	1969	"Slovak Republic"		
+27	1970	"Slovak Republic"		
+27	1971	"Slovak Republic"		
+27	1972	"Slovak Republic"		
+27	1973	"Slovak Republic"		
+27	1974	"Slovak Republic"		
+27	1975	"Slovak Republic"		
+27	1976	"Slovak Republic"		
+27	1977	"Slovak Republic"		
+27	1978	"Slovak Republic"		
+27	1979	"Slovak Republic"		
+27	1980	"Slovak Republic"		
+27	1981	"Slovak Republic"		
+27	1982	"Slovak Republic"		
+27	1983	"Slovak Republic"		
+27	1984	"Slovak Republic"		
+27	1985	"Slovak Republic"		
+27	1986	"Slovak Republic"		
+27	1987	"Slovak Republic"		
+27	1988	"Slovak Republic"		
+27	1989	"Slovak Republic"		
+27	1990	"Slovak Republic"		
+27	1991	"Slovak Republic"		
+27	1992	"Slovak Republic"		
+27	1993	"Slovak Republic"		
+27	1994	"Slovak Republic"		
+27	1995	"Slovak Republic"		
+27	1996	"Slovak Republic"		
+27	1997	"Slovak Republic"	5.8	564
+27	1998	"Slovak Republic"	5.7	584
+27	1999	"Slovak Republic"	5.8	599
+27	2000	"Slovak Republic"	5.5	604
+27	2001	"Slovak Republic"	5.5	664
+27	2002	"Slovak Republic"	5.6	730
+27	2003	"Slovak Republic"	5.8	791
+27	2004	"Slovak Republic"	7.2	1057
+27	2005	"Slovak Republic"	7	1139
+27	2006	"Slovak Republic"	7.3	1350
+27	2007	"Slovak Republic"	7.7	1619
+27	2008	"Slovak Republic"	8	1859
+27	2009	"Slovak Republic"	9.1	2084
+27	2010	"Slovak Republic"		
+28	1960	"Slovenia"		
+28	1961	"Slovenia"		
+28	1962	"Slovenia"		
+28	1963	"Slovenia"		
+28	1964	"Slovenia"		
+28	1965	"Slovenia"		
+28	1966	"Slovenia"		
+28	1967	"Slovenia"		
+28	1968	"Slovenia"		
+28	1969	"Slovenia"		
+28	1970	"Slovenia"		
+28	1971	"Slovenia"		
+28	1972	"Slovenia"		
+28	1973	"Slovenia"		
+28	1974	"Slovenia"		
+28	1975	"Slovenia"		
+28	1976	"Slovenia"		
+28	1977	"Slovenia"		
+28	1978	"Slovenia"		
+28	1979	"Slovenia"		
+28	1980	"Slovenia"		
+28	1981	"Slovenia"		
+28	1982	"Slovenia"		
+28	1983	"Slovenia"		
+28	1984	"Slovenia"		
+28	1985	"Slovenia"		
+28	1986	"Slovenia"		
+28	1987	"Slovenia"		
+28	1988	"Slovenia"		
+28	1989	"Slovenia"		
+28	1990	"Slovenia"		
+28	1991	"Slovenia"		
+28	1992	"Slovenia"		
+28	1993	"Slovenia"		
+28	1994	"Slovenia"		
+28	1995	"Slovenia"	7.5	982
+28	1996	"Slovenia"	7.7	1065
+28	1997	"Slovenia"	7.8	1157
+28	1998	"Slovenia"	7.9	1227
+28	1999	"Slovenia"	7.9	1304
+28	2000	"Slovenia"	8.3	1453
+28	2001	"Slovenia"	8.6	1583
+28	2002	"Slovenia"	8.6	1706
+28	2003	"Slovenia"	8.6	1768
+28	2004	"Slovenia"	8.4	1857
+28	2005	"Slovenia"	8.4	1974
+28	2006	"Slovenia"	8.3	2106
+28	2007	"Slovenia"	7.8	2129
+28	2008	"Slovenia"	8.4	2451
+28	2009	"Slovenia"	9.3	2579
+28	2010	"Slovenia"		
+29	1960	"Spain"	1.5	16
+29	1961	"Spain"	1.6	19
+29	1962	"Spain"	1.8	23
+29	1963	"Spain"	1.9	27
+29	1964	"Spain"	2.2	35
+29	1965	"Spain"	2.5	42
+29	1966	"Spain"	2.7	50
+29	1967	"Spain"	2.9	57
+29	1968	"Spain"	3	64
+29	1969	"Spain"	3.3	80
+29	1970	"Spain"	3.5	95
+29	1971	"Spain"	4	116
+29	1972	"Spain"	4.2	136
+29	1973	"Spain"	4	149
+29	1974	"Spain"	4.4	184
+29	1975	"Spain"	4.6	211
+29	1976	"Spain"	5	249
+29	1977	"Spain"	5.3	282
+29	1978	"Spain"	5.3	302
+29	1979	"Spain"	5.2	320
+29	1980	"Spain"	5.3	362
+29	1981	"Spain"	5.5	404
+29	1982	"Spain"	5.6	442
+29	1983	"Spain"	5.7	473
+29	1984	"Spain"	5.5	481
+29	1985	"Spain"	5.4	494
+29	1986	"Spain"	5.3	515
+29	1987	"Spain"	5.4	567
+29	1988	"Spain"	6	682
+29	1989	"Spain"	6.2	763
+29	1990	"Spain"	6.5	870
+29	1991	"Spain"	6.7	950
+29	1992	"Spain"	7.1	1028
+29	1993	"Spain"	7.4	1083
+29	1994	"Spain"	7.3	1111
+29	1995	"Spain"	7.4	1190
+29	1996	"Spain"	7.5	1247
+29	1997	"Spain"	7.3	1298
+29	1998	"Spain"	7.3	1383
+29	1999	"Spain"	7.3	1450
+29	2000	"Spain"	7.2	1537
+29	2001	"Spain"	7.2	1635
+29	2002	"Spain"	7.3	1745
+29	2003	"Spain"	8.2	2023
+29	2004	"Spain"	8.2	2131
+29	2005	"Spain"	8.3	2269
+29	2006	"Spain"	8.4	2536
+29	2007	"Spain"	8.5	2735
+29	2008	"Spain"	9	2971
+29	2009	"Spain"	9.5	3067
+29	2010	"Spain"		
+30	1960	"Sweden"		
+30	1961	"Sweden"		
+30	1962	"Sweden"		
+30	1963	"Sweden"		
+30	1964	"Sweden"		
+30	1965	"Sweden"		
+30	1966	"Sweden"		
+30	1967	"Sweden"		
+30	1968	"Sweden"		
+30	1969	"Sweden"		
+30	1970	"Sweden"	6.8	311
+30	1971	"Sweden"	7.1	344
+30	1972	"Sweden"	7.2	366
+30	1973	"Sweden"	7	393
+30	1974	"Sweden"	7.2	453
+30	1975	"Sweden"	7.5	529
+30	1976	"Sweden"	7.8	586
+30	1977	"Sweden"	8.6	676
+30	1978	"Sweden"	8.7	740
+30	1979	"Sweden"	8.6	817
+30	1980	"Sweden"	8.9	942
+30	1981	"Sweden"	9.1	1044
+30	1982	"Sweden"	9.2	1134
+30	1983	"Sweden"	9.1	1186
+30	1984	"Sweden"	8.9	1253
+30	1985	"Sweden"	8.5	1267
+30	1986	"Sweden"	8.3	1288
+30	1987	"Sweden"	8.3	1370
+30	1988	"Sweden"	8.2	1433
+30	1989	"Sweden"	8.2	1522
+30	1990	"Sweden"	8.2	1592
+30	1991	"Sweden"	8	1577
+30	1992	"Sweden"	8.2	1619
+30	1993	"Sweden"	8.4	1657
+30	1994	"Sweden"	8	1662
+30	1995	"Sweden"	8	1741
+30	1996	"Sweden"	8.2	1858
+30	1997	"Sweden"	8	1885
+30	1998	"Sweden"	8.1	1982
+30	1999	"Sweden"	8.2	2129
+30	2000	"Sweden"	8.2	2286
+30	2001	"Sweden"	8.9	2501
+30	2002	"Sweden"	9.2	2702
+30	2003	"Sweden"	9.3	2832
+30	2004	"Sweden"	9.1	2954
+30	2005	"Sweden"	9.1	2963
+30	2006	"Sweden"	8.9	3193
+30	2007	"Sweden"	8.9	3432
+30	2008	"Sweden"	9.2	3644
+30	2009	"Sweden"	10	3722
+30	2010	"Sweden"		
+31	1960	"Switzerland"	4.9	166
+31	1961	"Switzerland"	4.6	167
+31	1962	"Switzerland"	4.5	171
+31	1963	"Switzerland"	4.4	175
+31	1964	"Switzerland"	4.4	184
+31	1965	"Switzerland"	4.6	199
+31	1966	"Switzerland"	5	228
+31	1967	"Switzerland"	5.3	252
+31	1968	"Switzerland"	5.4	277
+31	1969	"Switzerland"	5.5	312
+31	1970	"Switzerland"	5.5	344
+31	1971	"Switzerland"	5.7	391
+31	1972	"Switzerland"	5.7	415
+31	1973	"Switzerland"	5.8	454
+31	1974	"Switzerland"	6.1	534
+31	1975	"Switzerland"	7	618
+31	1976	"Switzerland"	7.3	671
+31	1977	"Switzerland"	7.2	733
+31	1978	"Switzerland"	7.3	789
+31	1979	"Switzerland"	7.4	886
+31	1980	"Switzerland"	7.4	1013
+31	1981	"Switzerland"	7.5	1130
+31	1982	"Switzerland"	7.6	1208
+31	1983	"Switzerland"	8	1322
+31	1984	"Switzerland"	7.8	1366
+31	1985	"Switzerland"	7.8	1453
+31	1986	"Switzerland"	8	1543
+31	1987	"Switzerland"	8.2	1649
+31	1988	"Switzerland"	8.2	1763
+31	1989	"Switzerland"	8.3	1910
+31	1990	"Switzerland"	8.2	2028
+31	1991	"Switzerland"	8.9	2222
+31	1992	"Switzerland"	9.3	2355
+31	1993	"Switzerland"	9.4	2403
+31	1994	"Switzerland"	9.4	2484
+31	1995	"Switzerland"	9.6	2563
+31	1996	"Switzerland"	9.9	2730
+31	1997	"Switzerland"	10	2844
+31	1998	"Switzerland"	10.1	2981
+31	1999	"Switzerland"	10.2	3073
+31	2000	"Switzerland"	10.2	3221
+31	2001	"Switzerland"	10.6	3428
+31	2002	"Switzerland"	10.9	3673
+31	2003	"Switzerland"	11.3	3777
+31	2004	"Switzerland"	11.3	3936
+31	2005	"Switzerland"	11.2	4015
+31	2006	"Switzerland"	10.8	4150
+31	2007	"Switzerland"	10.6	4469
+31	2008	"Switzerland"	10.7	4930
+31	2009	"Switzerland"	11.4	5144
+31	2010	"Switzerland"	11.6	5344
+32	1960	"Turkey"		
+32	1961	"Turkey"		
+32	1962	"Turkey"		
+32	1963	"Turkey"		
+32	1964	"Turkey"		
+32	1965	"Turkey"		
+32	1966	"Turkey"		
+32	1967	"Turkey"		
+32	1968	"Turkey"		
+32	1969	"Turkey"		
+32	1970	"Turkey"		
+32	1971	"Turkey"		
+32	1972	"Turkey"		
+32	1973	"Turkey"		
+32	1974	"Turkey"		
+32	1975	"Turkey"	2.2	44
+32	1976	"Turkey"	1.7	40
+32	1977	"Turkey"	2	50
+32	1978	"Turkey"	2.3	60
+32	1979	"Turkey"	2.3	65
+32	1980	"Turkey"	2.4	70
+32	1981	"Turkey"	2.6	85
+32	1982	"Turkey"	2.2	76
+32	1983	"Turkey"	2.2	83
+32	1984	"Turkey"	2.2	86
+32	1985	"Turkey"	1.6	68
+32	1986	"Turkey"	2	90
+32	1987	"Turkey"	2.1	103
+32	1988	"Turkey"	2.3	116
+32	1989	"Turkey"	2.5	129
+32	1990	"Turkey"	2.7	155
+32	1991	"Turkey"	2.9	168
+32	1992	"Turkey"	2.8	176
+32	1993	"Turkey"	2.8	187
+32	1994	"Turkey"	2.7	172
+32	1995	"Turkey"	2.5	173
+32	1996	"Turkey"	2.9	215
+32	1997	"Turkey"	3.1	250
+32	1998	"Turkey"	3.6	295
+32	1999	"Turkey"	4.8	372
+32	2000	"Turkey"	4.9	433
+32	2001	"Turkey"	5.2	423
+32	2002	"Turkey"	5.4	442
+32	2003	"Turkey"	5.3	447
+32	2004	"Turkey"	5.4	520
+32	2005	"Turkey"	5.4	591
+32	2006	"Turkey"	5.8	712
+32	2007	"Turkey"	6	798
+32	2008	"Turkey"	6.1	902
+32	2009	"Turkey"		
+32	2010	"Turkey"		
+33	1960	"United Kingdom"	3.9	84
+33	1961	"United Kingdom"	4	88
+33	1962	"United Kingdom"	4	91
+33	1963	"United Kingdom"	4.1	98
+33	1964	"United Kingdom"	4.1	104
+33	1965	"United Kingdom"	4.1	110
+33	1966	"United Kingdom"	4.3	119
+33	1967	"United Kingdom"	4.4	130
+33	1968	"United Kingdom"	4.5	142
+33	1969	"United Kingdom"	4.4	148
+33	1970	"United Kingdom"	4.5	159
+33	1971	"United Kingdom"	4.5	172
+33	1972	"United Kingdom"	4.6	189
+33	1973	"United Kingdom"	4.6	212
+33	1974	"United Kingdom"	5.2	258
+33	1975	"United Kingdom"	5.4	292
+33	1976	"United Kingdom"	5.4	317
+33	1977	"United Kingdom"	5.3	337
+33	1978	"United Kingdom"	5.3	371
+33	1979	"United Kingdom"	5.2	408
+33	1980	"United Kingdom"	5.6	466
+33	1981	"United Kingdom"	5.9	529
+33	1982	"United Kingdom"	5.7	560
+33	1983	"United Kingdom"	5.9	625
+33	1984	"United Kingdom"	5.9	657
+33	1985	"United Kingdom"	5.8	689
+33	1986	"United Kingdom"	5.8	732
+33	1987	"United Kingdom"	5.9	798
+33	1988	"United Kingdom"	5.8	854
+33	1989	"United Kingdom"	5.8	910
+33	1990	"United Kingdom"	5.9	960
+33	1991	"United Kingdom"	6.3	1049
+33	1992	"United Kingdom"	6.8	1153
+33	1993	"United Kingdom"	6.8	1206
+33	1994	"United Kingdom"	6.9	1295
+33	1995	"United Kingdom"	6.8	1346
+33	1996	"United Kingdom"	6.8	1433
+33	1997	"United Kingdom"	6.6	1481
+33	1998	"United Kingdom"	6.7	1551
+33	1999	"United Kingdom"	6.9	1671
+33	2000	"United Kingdom"	7	1828
+33	2001	"United Kingdom"	7.2	1996
+33	2002	"United Kingdom"	7.6	2184
+33	2003	"United Kingdom"	7.8	2317
+33	2004	"United Kingdom"	8	2540
+33	2005	"United Kingdom"	8.2	2735
+33	2006	"United Kingdom"	8.5	3006
+33	2007	"United Kingdom"	8.4	3051
+33	2008	"United Kingdom"	8.8	3281
+33	2009	"United Kingdom"	9.8	3487
+33	2010	"United Kingdom"		
+34	1960	"United States"	5.1	148
+34	1961	"United States"	5.3	154
+34	1962	"United States"	5.3	165
+34	1963	"United States"	5.5	177
+34	1964	"United States"	5.7	194
+34	1965	"United States"	5.7	208
+34	1966	"United States"	5.7	227
+34	1967	"United States"	6.1	251
+34	1968	"United States"	6.3	283
+34	1969	"United States"	6.6	317
+34	1970	"United States"	7.1	355
+34	1971	"United States"	7.3	390
+34	1972	"United States"	7.4	432
+34	1973	"United States"	7.4	476
+34	1974	"United States"	7.7	535
+34	1975	"United States"	8	603
+34	1976	"United States"	8.3	685
+34	1977	"United States"	8.4	772
+34	1978	"United States"	8.4	858
+34	1979	"United States"	8.5	963
+34	1980	"United States"	9	1101
+34	1981	"United States"	9.4	1268
+34	1982	"United States"	10.2	1418
+34	1983	"United States"	10.3	1550
+34	1984	"United States"	10.2	1691
+34	1985	"United States"	10.4	1833
+34	1986	"United States"	10.6	1948
+34	1987	"United States"	10.8	2100
+34	1988	"United States"	11.3	2334
+34	1989	"United States"	11.7	2575
+34	1990	"United States"	12.4	2850
+34	1991	"United States"	13.1	3073
+34	1992	"United States"	13.4	3285
+34	1993	"United States"	13.7	3481
+34	1994	"United States"	13.6	3629
+34	1995	"United States"	13.7	3788
+34	1996	"United States"	13.7	3949
+34	1997	"United States"	13.6	4118
+34	1998	"United States"	13.6	4303
+34	1999	"United States"	13.6	4528
+34	2000	"United States"	13.7	4793
+34	2001	"United States"	14.3	5146
+34	2002	"United States"	15.2	5578
+34	2003	"United States"	15.7	5986
+34	2004	"United States"	15.7	6336
+34	2005	"United States"	15.7	6700
+34	2006	"United States"	15.8	7073
+34	2007	"United States"	16	7437
+34	2008	"United States"	16.4	7720
+34	2009	"United States"	17.4	7960
+34	2010	"United States"		
