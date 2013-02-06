@@ -15,5 +15,5 @@ The code uses functions written by [Robert H. Shumway](http://anson.ucdavis.edu/
 
 Please feel free to send comments at [f.briatte@ed.ac.uk](f.briatte@ed.ac.uk).
 
-> First release: March 2012.
+> First release: March 2012.  
 > Last revision: February 2013 (changes in ggplot2 syntax; graph code not optimized).
