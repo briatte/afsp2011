@@ -3,7 +3,6 @@
 # When: 2011-08-15
 
 # Dependencies.
-##require(foreign)
 require(ggplot2)
 require(MASS)
 require(mgcv)
@@ -11,7 +10,7 @@ require(nlme)
 require(plyr)
 require(RColorBrewer)
 
-setwd("~/Documents/Research/Cancer/Papers/2011-08-AFSP/replication/")
+setwd("~/Documents/Research/Cancer/Papers/2011-08-AFSP/afsp2011/")
 
 # ========
 # = DATA =
