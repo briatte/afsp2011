@@ -1,6 +1,8 @@
 # Description
 
-This repository holds the replication material for the analysis produced in "[Quand la biopolitique change les politiques : survie au cancer et réforme du système de santé en Angleterre](http://hal.archives-ouvertes.fr/hal-00675783)", presented at [AFSP](http://www.afsp.msh-paris.fr/) 2011 in Strasbourg, France.
+This repository holds the replication material for the analysis produced in "[Quand la biopolitique change les politiques : survie au cancer et réforme du système de santé en Angleterre](http://hal.archives-ouvertes.fr/hal-00675783)", presented at the [AFSP](http://www.afsp.msh-paris.fr/) Congress 2011 in Strasbourg, France.
+
+![Figure 11 from the appendix.](afsp2011-appendix-fig11.png)
 
 # Sources
 
